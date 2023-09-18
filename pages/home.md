@@ -14,9 +14,9 @@ Explore!
 Try searching for species _Termes fatalis_, or start your exploration at Genus [Termes]({{app:project_url}}/otu/447859/overview),  or Family [Termitidae]({{app:project_url}}/otu/445508/overview).
 
 ## Discover more
-See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#team), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
+See our [About](about) page for an [overview](about#overview) of the project, its data, the development [team](about#project-development-and-maintenance), and details about how you can [access the data, contribute, contact us, or get help](about#contribute-or-get-help). 
 
 ## Announcements
-### Welcome to our new Isoptera Species File Website
-Heidi Hopkins, Matthew J. Yoder, 2023-08-15
+
+### Sept. 15, 2023: Welcome to our new Isoptera Species File Website
 <p>We look forward to hearing from you about your experiences with our new features as well as how you use the information you find here.</p>
