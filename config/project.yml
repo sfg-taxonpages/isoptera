@@ -1,9 +1,8 @@
 ---
   project_name: "Isoptera Species File"
   project_citation: "Isoptera Species File"
-  project_authors: "Hopkins, H. and Yoder, Matthew J."
-  project_url: "verbiage"
-  project_old_url: "verbiage" 
+  project_authors: "Hopkins, H."
+  project_url: "https://isoptera.speciesfile.org" 
   focal_taxon: "isoptera"
   focal_taxon_common_name: "termites"
   contact_email: "cockroachdoc@gmail.com"
