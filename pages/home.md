@@ -11,7 +11,7 @@ The Isoptera Species File works to build a comprehensive source for knowledge ab
 
 Explore!
 
-Try searching for species _Termes fatalis_, or start your exploration at Genus [Termes]({{app:project_url}}/otus/447859/overview),  or Family [Termitidae]({{app:project_url}}/otus/445508/overview).
+Try searching for species _Termes fatalis_, or start your exploration at Genus [Termes]({{app:project_url}}/otus/85835/overview),  or Family [Termitidae]({{app:project_url}}/otus/83484/overview).
 
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, the development [team](about#project-development-and-maintenance), and details about how you can [access the data, contribute, contact us, or get help](about#contribute-or-get-help). 
