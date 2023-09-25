@@ -5,7 +5,7 @@
 Building community around and gathering knowledge about the world’s termites.
 
 ## Overview
-The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
+The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute or get help](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more here](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
 
 ## Project development and maintenance
 
@@ -17,14 +17,14 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 _\* Past contributor, now inactive._
 
 ### Contribute or get help
-The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project may include an incomplete catalog of type-material, incomplete photographic depictions, missing biological associations, incomplete distribution records, and more. Contact us <TrackerReport label="Report a problem or offer data" tag="a"/> (bugs or data issues) on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
+The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project may include an incomplete catalog of type-material, incomplete photographic depictions, missing biological associations, incomplete distribution records, and more. Contact us to <TrackerReport label="Report a problem or offer data" tag="a"/> (bugs or data issues) on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
 
 - **Cite** this website: Hopkins, H. Isoptera Species File. [retrieval date]. <https://isoptera.speciesfile.org>. See also [Terms of use](#terms-of-use).
 
 ### Extended data access
 A goal of these pages is to ensure that the underlying data behind them are accessible in their digital format. By diversifying the ways the data are accessible (e.g. on the web page, in JSON, in Darwin Core standard), we increase the opportunities to both spot errors and provide new services and portals.
 
-- Researchers working on this project use their rich, multi-faceted access to the data via TaxonWorks' interfaces (e.g. filters, reporting, downloads). Access requires a project account, see [Contribute or get help](#contribute-or-get-help).
+- Researchers working on this project use their rich, multi-faceted access to the data via TaxonWorks' interfaces (e.g. filters, reporting, downloads). Access requires a project account, see **Contribute or get help**.
 - Data behind individual panels per page can be seen via the _Sitemap_ functionality.
 - Each page offers an option to download a _DarwinCore formatted table_ containing all data for this taxon and its children.
 - Panel data (each section on a page) and other information not available on these pages are accessible via a [TaxonWorks API](https://api.taxonworks.org) at [https://sfg.taxonworks.org/api/v1](https://sfg.taxonworks.org/api/v1).
@@ -39,7 +39,7 @@ This species file was originated in TaxonWorks in 2016.
 ## Support and funding
 This Species File functionality and content is serviced in part by the Species File Group.
 
-## Terms of use (Copyright guidance)
+## Terms of use
 
 <div class="flex items-center gap-2">
   <a
